@@ -1,0 +1,25 @@
+PLANNER DIÁRIO — RECRIAÇÃO VETORIAL
+
+Conteúdo
+• planner-diario-A5.pdf: 2 páginas individuais, 148 × 210 mm, prontas para impressão.
+• planner-01-janeiro.svg e planner-02-janeiro.svg: páginas vetoriais editáveis, com textos preservados como texto e fontes incorporadas.
+• previa-planner.png: prévia lado a lado.
+• recriar_planner.py: código-fonte em Python (requer reportlab).
+• fontes/: fontes Liberation Sans e sua licença SIL Open Font License.
+
+Impressão
+Use papel A5 e escala 100% / tamanho real. Não selecione “ajustar à página”.
+Margem externa: 5,5 mm; margem interna para encadernação: 17,5 mm.
+O arquivo preserva a ordem visual da referência: 01 de janeiro à esquerda; 02 de janeiro à direita. As páginas são individuais, sem imposição de caderno. Para impressão frente e verso ou montagem de um planner completo, a gráfica deve ajustar a imposição e as páginas anteriores/posteriores.
+Sem sangria, pois o conteúdo não alcança a borda da página.
+
+Referência e escolhas
+Recriação aproximada e fiel ao desenho do miolo da imagem fornecida. O tamanho A5 foi adotado porque a fotografia não informa medidas físicas.
+Mantidas as datas 01 de janeiro (sexta, Ano Novo) e 02 de janeiro (sábado), sem acrescentar ano.
+Todos os campos visíveis foram redesenhados: foco de hoje, hábitos, três prioridades, diário/notas, espaço livre e agenda com intervalos de 30 minutos, das 06:00 às 22:30.
+Fonte substituta: Liberation Sans, com proporções próximas às da referência. A tipografia original não pôde ser identificada com certeza pela foto.
+Capa, espiral, sombras da fotografia e marca comercial não fazem parte do miolo recriado.
+Este material é uma recriação da referência enviada, sem alegação de autoria do desenho original.
+
+Edição
+Abra os SVGs em um editor vetorial. Se o editor não reconhecer fontes incorporadas ao SVG, instale as duas fontes incluídas na pasta fontes. O PDF contém fontes incorporadas para preservar sua aparência na impressão.
